@@ -8013,7 +8013,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: b36b11cc52c29c14fa355603870d9b97, type: 2}
     - target: {fileID: 919132149155446097, guid: 46cb0842cf44b3f4bbfb166195028b1c, type: 3}
       propertyPath: m_Name
-      value: ImageToStl.com_67bddaff3225af7c01349cac@Capoeira (2)
+      value: Avatar
       objectReference: {fileID: 0}
     - target: {fileID: 3896897658422289572, guid: 46cb0842cf44b3f4bbfb166195028b1c, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -12728,7 +12728,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 6e-44, z: 9.4e-44, w: 4.0008e-41}
+  m_BoundingSphereOverride: {x: 4.1003012e-19, y: 2.2e-44, z: -2.4405384e-30, w: 9.188e-41}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
