@@ -59,7 +59,7 @@ Material:
     - _Outline: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Transparency: 0.5
+    - _Transparency: 0.6
     m_Colors:
-    - _Ghost_Color: {r: 0.10196081, g: 0.6950957, b: 1.4980392, a: 0}
+    - _Ghost_Color: {r: 0.050980404, g: 0.5615118, b: 0.7490196, a: 0}
   m_BuildTextureStacks: []
